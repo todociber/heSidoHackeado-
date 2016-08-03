@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "685700174535",
+    "project_id": "cobalt-upgrade-122616"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685700174535:android:b4ba8d36882282e7",
+        "android_client_info": {
+          "package_name": "com.todociber.hesidohackeado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8liFD8Z56jw3BuXZpItQSZXwlgULKFKE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-79806968-2"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

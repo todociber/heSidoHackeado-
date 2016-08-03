@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">HesidoHackeado?</string>
+    <string name="action_settings">Informacion</string>
+    <string name="ingresa_el_correo_a_comprobar">Ingresa el correo a comprobar</string>
+    <string name="comprobar">Comprobar</string>
+    <string name="title_activity_listado_resultados">ListadoResultados</string>
+    <string name="resultados_encontrados">Resultados encontrados</string>
+    <string name="title_activity_detalle_resultado">DetalleResultado</string>
+    <string name="detalles_de_la_fuga_de_seguridad">Detalles de la fuga de seguridad</string>
+    <string name="servidor_atacado">Servidor atacado:</string>
+    <string name="fecha_del_ataque">Fecha del ataque:</string>
+    <string name="fecha_de_registro">Fecha de Registro:</string>
+    <string name="numero_de_email_afectados">Numero de email afectados:</string>
+    <string name="ataque_verificado">Ataque verificado:</string>
+    <string name="autor_del_ataque">Autor del ataque</string>
+    <string name="ver_mas_detalles">Ver mas detalles</string>
+    <string name="Veracidad_confirmada">Veracidad del ataque confirmada</string>
+    <string name="Veracidad_no_confirmada">Veracidad no confirmada</string>
+    <string name="hacker_desconocido">hacker desconocido</string>
+    <string name="title_activity_informacion_app">informacionApp</string>
+    <string name="esta_app_dedicada_a_informar_a_las_personas_sobre_la_vulnerabilidad_de_su_identidad_digital_en_la_red_para_utilizarla_nicamente_tienes_que_ingresar_el_email_que_deseas_comprobar_si_en_alg_n_momento_se_vio_comprometido_mediante_ataques_masivos_a_servidores_o_en_ataques_masivos_a_personas_en_general">Esta app dedicada a informar a las personas sobre la vulnerabilidad de su identidad digital en la red, para utilizarla únicamente tienes que ingresar el email que deseas comprobar si en algún momento se vio comprometido mediante ataques masivos a servidores o en ataques masivos a personas en general</string>
+    <string name="about">about:</string>
+    <string name="www_hesidohakeado_com">www.hesidohakeado.com</string>
+    <string name="desarrollado_por_todociber">Desarrollado por Todociber</string>
+</resources>

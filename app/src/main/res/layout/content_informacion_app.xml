@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.todociber.hesidohackeado.informacionApp"
+    tools:showIn="@layout/activity_informacion_app">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </ScrollView>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <ImageView
+            android:tint="@color/azul"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/broken_zone"
+            android:layout_gravity="center_horizontal" />
+
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:textColor="@color/negro"
+            android:textSize="15dp"
+            android:textAlignment="center"
+            android:text="@string/esta_app_dedicada_a_informar_a_las_personas_sobre_la_vulnerabilidad_de_su_identidad_digital_en_la_red_para_utilizarla_nicamente_tienes_que_ingresar_el_email_que_deseas_comprobar_si_en_alg_n_momento_se_vio_comprometido_mediante_ataques_masivos_a_servidores_o_en_ataques_masivos_a_personas_en_general"
+            android:layout_width="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_height="wrap_content"
+            />
+
+        <TextView
+            android:layout_marginLeft="20dp"
+            android:textSize="15dp"
+
+            android:textColor="@color/negro"
+            android:textStyle="bold"
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/about"
+            />
+
+        <TextView
+            android:layout_marginTop="5dp"
+            android:textColor="@color/celesteLink"
+            android:layout_marginLeft="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/www_hesidohakeado_com"
+            android:id="@+id/link1" />
+        <TextView
+            android:layout_margin="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/desarrollado_por_todociber"
+            android:layout_gravity="center_horizontal" />
+
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>
